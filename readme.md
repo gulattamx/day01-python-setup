@@ -1,7 +1,16 @@
-# Day 01-Python Setup
-Bugün yaptıklarım:
--Python kurdum
--Vs Code ortamını hazırladım
--İlk Python dosyamı oluşturdum
--Input ve print kullanan küçük bir program yazdım
--Git repo başlattım
+# Day 01 Notes
+
+## Bugün ne öğrendim?
+- Python dosyası oluşturup çalıştırdım
+- input ve print kullandım
+- Git repo oluşturup commit attım
+- GitHub'a push yaptım
+
+## Nerede zorlandım?
+- Git repo’yu önce yanlış klasörde başlattım
+- remote URL ve authentication tarafında hata aldım
+
+## Yarın ne yapacağım?
+- değişkenler
+- veri tipleri
+- küçük Python alıştırmaları
